@@ -6,7 +6,7 @@ public class RevenueCalculatorRunner
 {
     public static void main(String[] args)
     {
-        final ClientEngagement clientEngagement =
+        final ClientEngagement aclientEngagement =
             new ClientEngagement("Pluralsight", 100, 15_000);
 
         // "Hourly"
